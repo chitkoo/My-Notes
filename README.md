@@ -15,6 +15,10 @@ Simple notes list app made with React Native
 - redux
 - redux-thunk
 
+## Screenshots
+
+![App Screenshot](assets/images/note.png)
+
 
 ## Authors
 
